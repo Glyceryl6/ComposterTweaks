@@ -1,0 +1,17 @@
+{
+  "composting.info.file.item_name": "Item Name",
+  "composting.info.file.registry_name": "Registry Name",
+  "composting.info.file.can_compost": "In Composter Recipe",
+  "composting.info.file.output": "§6Item information has been save as %s",
+  "composting.info.file.invalid": "§cThe Mod is not exist, please check for typo",
+  "composting.info.add.success": "§e%s §r§ahas been add to composter recipe",
+  "composting.info.add.fail": "§cThis item is already exist in composter recipe",
+  "composting.info.add.success.temp": "§e%s §r§ahas been add to composter recipe temporarily, it will lose effectiveness after restart the game",
+  "composting.info.add.fail.temp": "§cThis item is already exist in temporary composter recipe",
+  "composting.info.remove.success": "§e%s §r§ahas been remove from composter recipe",
+  "composting.info.remove.fail": "§cThis item is not found in composter recipe",
+  "composting.info.remove.success.temp": "§e%s §r§ahas been remove from composter recipe temporarily, it will lose effectiveness after restart the game",
+  "composting.info.remove.fail.temp": "§cThis item is not found in composter temporary recipe",
+  "composting.info.reload.success": "§aConfig reloaded",
+  "composting.info.reload.fail": "§cConfig failed to reload"
+}
